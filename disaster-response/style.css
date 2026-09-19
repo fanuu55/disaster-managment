@@ -1,0 +1,5 @@
+body { background: #f6f7f9; }
+.card { border: 0; box-shadow: 0 1px 4px rgba(0,0,0,.08); }
+.stat-card h2 { font-weight: 700; }
+.hero { background: linear-gradient(135deg,#dc3545,#8b1a25); color: #fff; border-radius: .75rem; }
+table th { white-space: nowrap; }
